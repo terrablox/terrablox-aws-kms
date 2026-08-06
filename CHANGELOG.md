@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [4.2.1](https://github.com/terraform-aws-modules/terraform-aws-kms/compare/v4.2.0...v4.2.1) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#45](https://github.com/terraform-aws-modules/terraform-aws-kms/issues/45)) ([d85eb77](https://github.com/terraform-aws-modules/terraform-aws-kms/commit/d85eb77b8327b6463da3b5cd0d62de2b2f93506a))
+
 ## [4.2.0](https://github.com/terraform-aws-modules/terraform-aws-kms/compare/v4.1.1...v4.2.0) (2026-01-08)
 
 ### Features
